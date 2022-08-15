@@ -6,6 +6,7 @@ The game mechanic is fairly simple: both Geralt and the monster have their own h
 - **Fast attack**, regular attack that has 85 % chance of hitting the opponent and 20 % chance of a critical strike. Does not consume much vigor.
 - **Strong attack** has an 60 % hit chance but does significantly more damage than the fast attack. Moreover, has a 40 % critical strike chance. Consumes twice as much vigor as the fast attack.
 - **Aard** consumes significant amount of stamina and has a 20 % of stunning the opponent, making him skip his next turn and lose all his vigor.
+- **Rest** does nothing but regenerages 1/2 of the energy.
 
 You are free to add any abilities/signs/potions you want :)
 
